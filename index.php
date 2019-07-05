@@ -20,8 +20,6 @@
 
     echo "<br>";
 
-    echo $mercedez->get_details();
-
     echo "Test";
 
     echo "new code";
